@@ -16,7 +16,7 @@ This project implements an approach to the traveling salesman problem, in the co
 ## Backend Installation/Configuration on localhost:
 1. Navigate to the project directory:
     ```bash
-    best route backend cd
+    cd best-route-backend
     ```
 2. Create the .env file in the root of the backend and fill it with the connection data to your database:
    ```bash
@@ -28,7 +28,7 @@ This project implements an approach to the traveling salesman problem, in the co
    ```
 3. Install project dependencies with npm:
    ```bash
-    npm installation
+    npm install
     ```
 4. Server start:
    ```bash
@@ -40,11 +40,11 @@ The backend will be available at [http://localhost:3333/](http://localhost:3333/
 ## Frontend Installation/Configuration on localhost:
 1. Navigate to the project directory:
     ```bash
-    best route backend cd
+    cd best-route-frontend
     ```
 3. Install project dependencies with npm:
    ```bash
-    npm installation
+    npm install
     ```
 4. Server start:
    ```bash
