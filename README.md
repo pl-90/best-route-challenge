@@ -11,7 +11,7 @@ This project implements an approach to the traveling salesman problem, in the co
 
 1. Make sure you have PostgreSQL installed and running.
 2. Create a database in PostgreSQL.
-3. Use the file [best-route-ddl.sql](https://github.com/pl-90/best-route-challenge/blob/main/best-route-ddl.sql) to generate the structure of Bank.
+3. Use the file [best-route-ddl.sql](https://github.com/pl-90/best-route-challenge/blob/main/best-route-ddl.sql) to generate the structure of Databse.
 
 ## Backend Installation/Configuration on localhost:
 1. Navigate to the project directory:
@@ -24,7 +24,7 @@ This project implements an approach to the traveling salesman problem, in the co
     DB_HOST=localhost
     DB_NAME=<your-database-name>
     DB_PASSWORD=<your-bd-password>
-    DB_PORT=<your db-port>
+    DB_PORT=<your-db-port>
    ```
 3. Install project dependencies with npm:
    ```bash
