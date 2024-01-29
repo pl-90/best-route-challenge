@@ -55,6 +55,6 @@ The frontend will be available at [http://localhost:5173/](http://localhost:5173
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot-1.jpeg)
-![Screenshot 2](screenshots/screenshot2-.png)
-![Screenshot 3](screenshots/screenshot-3.jpeg)
+![Screenshot 1](screenshots/1.jpeg)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.jpeg)
